@@ -1,5 +1,5 @@
 
-# IPL-COMPLETE DATASET 2017 - 2023
+# IPL-COMPLETE DATASET 2017 - 2024
 
 This repository contains an IPL cricket dataset that provides detailed information about matches, teams, players, and various statistics from the Indian Premier League.
 
@@ -7,9 +7,6 @@ This repository contains an IPL cricket dataset that provides detailed informati
 
      1.Ball_by_ball_data                 # Each ball-details
      2.match_data                        # Each match-details
-
-
-
 
  👉🏻 Compare to other Dataset this dataset uniquely contains 
 
